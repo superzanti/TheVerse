@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TheVerse": {
+      "name": "TheVerse",
+      "lastVersionId": "1.7.10-Forge10.13.4.1558-1.7.10",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M -XX:ParallelGCThreads\u003d4",
+      "useHopperCrashService": false,
+      "launcherVisibilityOnGameClose": "close launcher when game starts"
+    }
+  }
+}
