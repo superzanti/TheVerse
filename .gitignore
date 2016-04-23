@@ -1,0 +1,34 @@
+## -- File types we don't care about -- ##
+
+*.log
+*.dat
+
+## -- Specific folders that are created/edited at runtime -- ##
+
+# Game assets (audio, textures, etc.)
+data/.minecraft/assets/
+
+# Miscellaneous
+data/java/
+data/NVIDIA/
+data/.oracle_jre_usage/
+
+# Crash reports
+data/.minecraft/crash-reports/
+
+# Mod local data (feel free to expand this as more directories are added)
+data/.minecraft/journeymap/data/
+
+# Server Backups
+data/.minecraft/backups/
+
+# Local client data
+data/.minecraft/local
+
+# Server-side world-gen data
+data/.minecraft/saves/
+
+# Modpack data
+# I'm not sure what this folder is, but it wasn't in the last server's directory
+# tree.  Uncomment if this shouldn't be tracked.
+# data/.minecraft/modpack/
