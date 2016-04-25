@@ -8,6 +8,8 @@
 !Mac_start.app/*
 !launcher/
 !launcher/*
+!data/
+!data/.minecraft/
 !data/.minecraft/launcher_profiles_distribute.json
 !data/.minecraft/versions/
 !data/.minecraft/versions/*
