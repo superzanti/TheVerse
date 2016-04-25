@@ -29,6 +29,8 @@ Found creative tab: buildcraft.gates
 Found creative tab: CarpentersBlocks
 Found creative tab: redstone
 Found creative tab: combat
+Found creative tab: ec_blocks
+Found creative tab: ec_items
 Found creative tab: EnderIO
 Found creative tab: decorations
 Found creative tab: EnderTechAll
@@ -107,8 +109,10 @@ Found creative tab: guideapi.creativeTab
 Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
+Found creative tab: headcrumbs
 Found creative tab: runicdungeons
 Found creative tab: search
+Found creative tab: tabWarpBook
 Found creative tab: tabWitchery
 Setting up ForgeMicroblock Library...
 Setting up ExtraUtilities Library...
@@ -147,17 +151,17 @@ Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: MineFactoryReloaded:brick
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick_3
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ExtraUtilities:trading_post
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ExtraUtilities:trading_post
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, MineFactoryReloaded:brick_1
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 3410
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 700
+getFacadesSize called. Returned: 3384
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2478
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -293,8 +297,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2344
-override called. Params: appliedenergistics2, item.ItemFacade, 1640
+getNumberOfTypes called. Returned: 2306
+override called. Params: appliedenergistics2, item.ItemFacade, 1191
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
