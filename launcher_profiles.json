@@ -7,21 +7,5 @@
       "useHopperCrashService": false,
       "launcherVisibilityOnGameClose": "close launcher when game starts"
     }
-  },
-  "selectedProfile": "TheVerse",
-  "clientToken": "07ffe7e9-e5ce-47b9-bd5d-c9d15cc36b4b",
-  "authenticationDatabase": {
-    "8053bab3fef842808a56027ed31dec68": {
-      "displayName": "SuperZanti",
-      "accessToken": "fdd943dbf8144e08b0c8344e6c5a2623",
-      "userid": "298440",
-      "uuid": "8053bab3-fef8-4280-8a56-027ed31dec68",
-      "username": "superzanti"
-    }
-  },
-  "selectedUser": "8053bab3fef842808a56027ed31dec68",
-  "launcherVersion": {
-    "name": "1.6.61",
-    "format": 18
   }
 }
