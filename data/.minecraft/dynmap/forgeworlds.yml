@@ -1,0 +1,88 @@
+worlds:
+-   sealevel: 64
+    nether: false
+    name: DIM-112
+    the_end: false
+    title: TestDynmap/The Last Millenium
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-100
+    the_end: false
+    title: TestDynmap/Underdark
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM1
+    the_end: true
+    title: TestDynmap/The End
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: TestDynmap
+    the_end: false
+    title: TestDynmap/Overworld
+    height: 256
+-   sealevel: 64
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: TestDynmap/Nether
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM7
+    the_end: false
+    title: TestDynmap/Twilight Forest
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-7
+    the_end: false
+    title: TestDynmap/FZHammer
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-42
+    the_end: false
+    title: TestDynmap/The Outer Lands
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-34
+    the_end: false
+    title: TestDynmap/Dungeon
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-37
+    the_end: false
+    title: TestDynmap/Spirit World
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-39
+    the_end: false
+    title: TestDynmap/Mirror
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-38
+    the_end: false
+    title: TestDynmap/Torment
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-19
+    the_end: false
+    title: TestDynmap/Bedrock
+    height: 256
+-   sealevel: 64
+    nether: false
+    name: DIM-2147483648
+    the_end: false
+    title: TestDynmap/CONTROL
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256
