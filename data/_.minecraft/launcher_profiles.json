@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TheVerse": {
+      "name": "TheVerse",
+      "lastVersionId": "1.7.10-Forge10.13.3.1403-1.7.10",
+      "javaArgs": "-Xmx4G -Xms2G -Xmn1G -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold\u003d15 -XX:MaxGCPauseMillis\u003d30 -XX:GCPauseIntervalMillis\u003d150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio\u003d8 -XX:TargetSurvivorRatio\u003d90 -XX:MaxTenuringThreshold\u003d15 -Dfml.ignorePatchDiscrepancies\u003dtrue -Dfml.ignoreInvalidMinecraftCertificates\u003dtrue -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize\u003d2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB\u003d2000 -XX:ParallelGCThreads\u003d4",
+      "useHopperCrashService": false,
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    }
+  }
+}
