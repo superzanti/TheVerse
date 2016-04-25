@@ -31,3 +31,6 @@
 !data/.minecraft/mystcraft/
 !data/.minecraft/mystcraft/*
 !data/.minecraft/mystcraft/.gitignore
+!data/.minecraft/journeymap/
+!data/.minecraft/journeymap/*
+!data/.minecraft/journeymap/.gitignore
