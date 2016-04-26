@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.3 Unlimited for 1.7.10 on Tue Apr 26 10:26:08 MDT 2016",
+  "generated": "Generated using JourneyMap 5.1.3 Unlimited for 1.7.10 on Tue Apr 26 11:02:25 MDT 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -14118,6 +14118,61 @@ var colorpalette={
       "uid": "ThermalExpansion:Machine",
       "meta": 10,
       "color": "#878784"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 0,
+      "color": "#442251",
+      "alpha": 0.84705883
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 1,
+      "color": "#3f1b4f"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 2,
+      "color": "#110419"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 3,
+      "color": "#28112c"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 4,
+      "color": "#7b437d"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 5,
+      "color": "#7a2b5a"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 6,
+      "color": "#231634"
+    },
+    {
+      "name": "Energised Voidstone",
+      "uid": "chisel:voidstone2",
+      "meta": 7,
+      "color": "#691f83"
+    },
+    {
+      "name": "Energised Voidstone Pillar",
+      "uid": "chisel:voidstonePillar2",
+      "meta": 0,
+      "color": "#351a43"
     },
     {
       "name": "Energized Glowstone",
@@ -34047,7 +34102,7 @@ var colorpalette={
       "color": "#a579a5"
     },
     {
-      "name": "QED (Quadratic Equation Device)",
+      "name": "QED (Quantum Ender Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -35964,6 +36019,96 @@ var colorpalette={
       "uid": "runicdungeons:tile.runicSteelBlock",
       "meta": 0,
       "color": "#9f9f9f"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 1,
+      "color": "#56214e"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 2,
+      "color": "#561b5f"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 3,
+      "color": "#4b2461"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 4,
+      "color": "#582c56"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 5,
+      "color": "#4c2c55"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 6,
+      "color": "#57205d"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 7,
+      "color": "#461a4e"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 8,
+      "color": "#4c2155"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 9,
+      "color": "#442a62"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 10,
+      "color": "#4f1a59"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 11,
+      "color": "#481c60"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 12,
+      "color": "#52204e"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 13,
+      "color": "#461e4f"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 14,
+      "color": "#551b4f"
+    },
+    {
+      "name": "Runic Voidstone",
+      "uid": "chisel:voidstoneRunic",
+      "meta": 15,
+      "color": "#42164b"
     },
     {
       "name": "Rutabaga Crop",
@@ -43551,6 +43696,60 @@ var colorpalette={
       "meta": 3,
       "color": "#5d6c84",
       "alpha": 0.4
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 0,
+      "color": "#442251"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 1,
+      "color": "#451e56"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 2,
+      "color": "#331740"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 3,
+      "color": "#26102b"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 4,
+      "color": "#5a2e62"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 5,
+      "color": "#7a2b5a"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 6,
+      "color": "#2d183c"
+    },
+    {
+      "name": "Voidstone",
+      "uid": "chisel:voidstone",
+      "meta": 7,
+      "color": "#5d1f75"
+    },
+    {
+      "name": "Voidstone Pillar",
+      "uid": "chisel:voidstonePillar",
+      "meta": 0,
+      "color": "#351943"
     },
     {
       "name": "Vortex Tube",
