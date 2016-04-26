@@ -13,6 +13,7 @@
 !data/.minecraft/launcher.jar
 !data/.minecraft/launcher.pack.lzma
 !data/.minecraft/launcher_profiles_distribute.json
+!data/.minecraft/options.txt
 !data/.minecraft/versions/
 !data/.minecraft/versions/*
 !data/.minecraft/versions/.gitignore
