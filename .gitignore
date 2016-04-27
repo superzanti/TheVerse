@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.gitmodules
 !Windows_Start.exe
 !README.txt
 !Linux_Start.sh
