@@ -1,0 +1,6 @@
+*
+!config/*
+!icon/*
+!colorpalette.html
+!colorpalette.json
+!.gitignore
