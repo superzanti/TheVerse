@@ -1,11 +1,26 @@
 {
-  "profiles": {
-    "TheVerse": {
-      "name": "TheVerse",
-      "lastVersionId": "1.7.10-Forge10.13.4.1566-1.7.10",
-      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M -XX:ParallelGCThreads\u003d4",
-      "useHopperCrashService": false,
-      "launcherVisibilityOnGameClose": "close launcher when game starts"
-    }
-  }
+   "launcherVersion":{
+      "name":"1.6.61",
+      "format":18
+   },
+   "clientToken":"99a0141c-0dd2-11e6-a148-3e1d05defe78",
+   "profiles":{
+      "TheVerse":{
+         "lastVersionId":"1.7.10-Forge10.13.4.1566-1.7.10",
+         "useHopperCrashService":false,
+         "javaArgs":"-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn512M -XX:ParallelGCThreads=4",
+         "launcherVisibilityOnGameClose":"close launcher when game starts",
+         "name":"TheVerse"
+      }
+   },
+   "selectedProfile":"TheVerse",
+   "authenticationDatabase":{
+      "id":{
+         "displayName":"name",
+         "accessToken":"token",
+         "uuid":"uuid",
+         "userid":"1337",
+         "username":"uname"
+      }
+   }
 }
