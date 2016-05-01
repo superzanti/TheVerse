@@ -2,11 +2,10 @@
 !.gitignore
 !.gitmodules
 !Windows_Start.exe
-!README.txt
+!Windows_Start.bat
+!TheVerseLauncher.jar
+!README.md
 !Linux_Start.sh
-!._Mac_Start.app
-!Mac_Start.app/
-!Mac_start.app/*
 !launcher/
 !launcher/*
 !data/
