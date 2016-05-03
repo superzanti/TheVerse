@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "serversync:TheVerse.png",
+            "image" : "theverse:textures/TheVerse.png",
             "posX" : -150,
             "posY" : 25,
             "width" : 300,
@@ -17,7 +17,7 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-			"texture" : "serversync:versebutton_1.png",
+	    "texture" : "theverse:textures/versebutton_1.png",
             "posX" : -100,
             "posY" : 48,
             "width" : 200,
@@ -32,22 +32,22 @@
         "connectToServer":
         {
             "text" : "Connect To The Verse",
-			"texture" : "serversync:versebutton_1.png",
+	    "texture" : "theverse:textures/versebutton_1.png",
             "posX" : -100,
             "posY" : 72,
             "width" : 200,
             "height" : 20,
             "action" : 
             {
-                "type" : "openGui",
-                "gui" : "connectToServer"
-            }
+                "type" : "connectToServer",
+            	"ip" : "minecraft.sethmiers.com"
+	    }
         },
             
         "options":
         {
             "text" : "menu.options",
-			"texture" : "serversync:versebutton_2.png",
+	    "texture" : "theverse:textures/versebutton_2.png",
             "posX" : -100,
             "posY" : 112,
             "width" : 98,
@@ -62,7 +62,7 @@
         "quit":
         {
             "text" : "menu.quit",
-			"texture" : "serversync:versebutton_2.png",
+	    "texture" : "theverse:textures/versebutton_2.png",
             "posX" : 2,
             "posY" : 112,
             "width" : 98,
