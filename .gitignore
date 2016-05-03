@@ -34,3 +34,6 @@
 !data/.minecraft/journeymap/
 !data/.minecraft/journeymap/*
 !data/.minecraft/journeymap/.gitignore
+!data/.minecraft/resources/
+!data/.minecraft/resources/*
+!data/.minecraft/resources/.gitignore
