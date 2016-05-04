@@ -5,8 +5,9 @@ If you would like to play with us on the server please let me know by sending me
 
 ### Running
 
-All you need to do to get connected to the server is extract the zip file to a location on your computer that you choose. The entire application is portable and will not create any files outside it's own folder.
+All you need to do to get connected to the server is extract the zip file to a location on your computer that you choose. The entire application is portable and will not create any files outside it's own folder. Then as long as you have the correct dependencies you can just double click the <OS>_Start.
 
+0. Download the latest copy of [TheVerse](https://github.com/superzanti/TheVerse/archive/master.zip)
 1. Make sure you have Jave 8 64 bit installed on your computer. You can do so by going to the [java downloads page.](https://java.com/en/download/manual.jsp)
 2. Extract TheVerse-master.zip to your comptuer and navigate to the folder.
 3. Double click <OS>_Start where <OS> Is the operating system you are running (Windows, Linux, or Mac).
