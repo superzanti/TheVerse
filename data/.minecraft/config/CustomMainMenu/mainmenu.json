@@ -43,13 +43,28 @@
             	"ip" : "minecraft.sethmiers.com"
 	    }
         },
+
+	"multiplayer":
+	{
+		"text" : "menu.multiplayer",
+		"texture" : "theverse:textures/versebutton_1.png",
+		"posX" : -100,
+                "posY" : 96,
+                "width" : 200,
+                "height" : 20,
+		"action" :
+		{
+			"type" : "openGui",
+			"gui" : "multiplayer"
+		}
+        },
             
         "options":
         {
             "text" : "menu.options",
 	    "texture" : "theverse:textures/versebutton_2.png",
             "posX" : -100,
-            "posY" : 112,
+            "posY" : 134,
             "width" : 98,
             "height" : 20,
             "action" : 
@@ -64,7 +79,7 @@
             "text" : "menu.quit",
 	    "texture" : "theverse:textures/versebutton_2.png",
             "posX" : 2,
-            "posY" : 112,
+            "posY" : 134,
             "width" : 98,
             "height" : 20,
             "action" : 
