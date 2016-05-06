@@ -1,0 +1,5 @@
+#!/bin/sh
+cd ../../../
+rm TheVerseLauncher.jar
+cp ./launcher/TheVerseLauncher.jar ./TheVerseLauncher.jar
+java -jar TheVerseLauncher.jar

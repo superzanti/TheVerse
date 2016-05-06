@@ -5,6 +5,9 @@
 !Windows_Start.bat
 !README.md
 !Linux_Start.sh
+!Mac_Start.app/
+!Mac_Start.app/*
+!Mac_Start.app/.gitignore
 !launcher/
 !launcher/*
 !data/
