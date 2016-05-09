@@ -7,7 +7,6 @@ Setting up NEI Library...
 Setting up CreativeTab library...
 Found creative tab: tabBloodMagic
 Found creative tab: misc
-Found creative tab: IC2
 Found creative tab: tools
 Found creative tab: BiblioCraft
 Found creative tab: BiblioCraftLights
@@ -29,8 +28,7 @@ Found creative tab: buildcraft.gates
 Found creative tab: CarpentersBlocks
 Found creative tab: redstone
 Found creative tab: combat
-Found creative tab: ec_blocks
-Found creative tab: ec_items
+Found creative tab: ComputerCraft
 Found creative tab: EnderIO
 Found creative tab: decorations
 Found creative tab: EnderTechAll
@@ -39,13 +37,11 @@ Found creative tab: arboriculture
 Found creative tab: lepidopterology
 Found creative tab: extraUtil
 Found creative tab: extraUtil_FMP
-Found creative tab: forbidden
-Found creative tab: mobcrystal
 Found creative tab: forestry
 Found creative tab: Genetics
+Found creative tab: IC2
 Found creative tab: Nuclear Control 2
 Found creative tab: jabba
-Found creative tab: Logistics_Pipes
 Found creative tab: magicBees
 Found creative tab: food
 Found creative tab: MineFactory Reloaded
@@ -53,7 +49,6 @@ Found creative tab: transportation
 Found creative tab: natura.plants
 Found creative tab: natura.nether
 Found creative tab: natura.trees
-Found creative tab: Nether Ores
 Found creative tab: tabOpenBlocks
 Found creative tab: tabOpenPeripheralAddons
 Found creative tab: tabPneumaticCraft
@@ -65,7 +60,6 @@ Found creative tab: int
 Found creative tab: trans
 Found creative tab: railcraft
 Found creative tab: redstonearsenal.creativeTab
-Found creative tab: solarexpansion
 Found creative tab: SC2Blocks
 Found creative tab: SC2Modules
 Found creative tab: SC2Items
@@ -106,13 +100,9 @@ Found creative tab: bdew.gendustry
 Found creative tab: bdew.samples
 Found creative tab: bdew.templates
 Found creative tab: guideapi.creativeTab
-Found creative tab: tabHarvestCraft2
-Found creative tab: tabHarvestCraft3
-Found creative tab: tabHarvestCraft
-Found creative tab: headcrumbs
-Found creative tab: runicdungeons
-Found creative tab: search
-Found creative tab: tabWarpBook
+Found creative tab: powersuits
+Found creative tab: RfTools
+Found creative tab: RfToolsDimlets
 Found creative tab: tabWitchery
 Setting up ForgeMicroblock Library...
 Setting up ExtraUtilities Library...
@@ -130,38 +120,23 @@ Found ItemStack minecraft:end_portal. 64xtile.null@0
 hide called. Params: minecraft, fire
 Regex match found! minecraft:fire matches minecraft:fire.
 Found ItemStack minecraft:fire. 64xtile.fire@0
-hide called. Params: minecraft, water
-Regex match found! minecraft:water matches minecraft:water.
-Found ItemStack minecraft:water. 64xtile.water@0
-hide called. Params: minecraft, lava
-Regex match found! minecraft:lava matches minecraft:lava.
-Found ItemStack minecraft:lava. 64xtile.lava@0
-hide called. Params: minecraft, mob_spawner
-Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
-Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
-override called. Params: minecraft, potion, 0
-Regex match found! minecraft:potion matches minecraft:potion.
-Found ItemStack minecraft:potion. 1xitem.potion@0
-override called. Params: minecraft, spawn_egg, 0
-Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
-Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 override called. Params: ThermalExpansion, florb, 0,1
 Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: MineFactoryReloaded:brick_6
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick_6
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_5
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, MineFactoryReloaded:brick_5
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: MineFactoryReloaded:machine.0_1
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, MineFactoryReloaded:machine.0_1
+getRandomMaterial called. Returned: MineFactoryReloaded:brick_15
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, MineFactoryReloaded:brick_15
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 3451
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 764
+getFacadesSize called. Returned: 3355
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1523
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -474,8 +449,9 @@ Found ItemStack BiblioWoodsNatura:seatBack5. 64xitem.seatBack@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2367
-override called. Params: appliedenergistics2, item.ItemFacade, 1362
+getNumberOfTypes called. Returned: 2297
+The function override_item is deprecated. Please use override instead! This function will be removed in a future version!
+override called. Params: appliedenergistics2, item.ItemFacade, 2191
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js

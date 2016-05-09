@@ -1,10 +1,9 @@
-<!--
+<!-- 
 See PainterPaintSources_Core.xml for documentation.
--->
-
+ -->
 <PainterPaintSources>
 
-  <whitelist>
+  <whitelist> 
 
   </whitelist>
 
